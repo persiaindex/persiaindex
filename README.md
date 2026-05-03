@@ -66,7 +66,15 @@ C++, C#, NVIDIA CUDA fundamentals, optical metrology concepts, sensor data proce
 - Strong interest in industrial automation, optical inspection, sensor software, and real-world engineering applications.
 
 ---
+## Education
 
+- Bachelor’s degree in Computer Software Technology — Azad University Mahshahr, Iran  
+  German translation and equivalence/evaluation available.
+  
+- Master’s studies in Computer Science / Artificial Intelligence — Azad University Dezful, Iran  
+  Coursework completed successfully.
+
+---
 ## Machine Learning & Certificates
 
 - Kaggle Learn Certificate: **Intermediate Machine Learning**
