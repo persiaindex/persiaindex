@@ -114,5 +114,6 @@ I am building and improving projects around:
 
 ## Contact
 
+- Email: khedri.hossein@gmail.com
 - GitHub: https://github.com/persiaindex
 - Location: Aachen, Germany
